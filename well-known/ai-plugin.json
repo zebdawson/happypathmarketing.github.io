@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0",
+  "name_for_human": "Happy Path Marketing",
+  "name_for_model": "happy_path_marketing",
+  "description_for_human": "CRM and marketing automation tools for small and medium-sized businesses.",
+  "description_for_model": "Provides CRM, lead management, follow-up automation, and review generation services via APIs including Follow-Up Pathway, Ratings Boost Pro, and ServicePath.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+  "type": "openapi",
+  "url": "https://zebdawson.github.io/openapi.yaml"
+},
+...
+  "logo_url": "https://zebdawson.github.io/logo.png",
+  "contact_email": "admin@happypathmarketing.com",
+  "legal_info_url": "https://www.happypathmarketing.com/legal"
+}
