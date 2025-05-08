@@ -1,5 +1,3 @@
-.well-known/ai-plugin.json
-openapi.yaml
 "auth": {
   "type": "oauth",
   "client_url": "https://www.happypathmarketing.com/oauth/authorize",
