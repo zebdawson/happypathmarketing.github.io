@@ -1,7 +1,0 @@
-"auth": {
-  "type": "oauth",
-  "client_url": "https://www.happypathmarketing.com/oauth/authorize",
-  "scope": "read write",
-  "authorization_url": "https://www.happypathmarketing.com/oauth/token",
-  "authorization_content_type": "application/json"
-}
