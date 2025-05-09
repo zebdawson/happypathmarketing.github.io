@@ -9,7 +9,8 @@ info:
     Designed for integration with AI agents via the Model Context Protocol (MCP).
 
 servers:
-  - url: https://api.happypathmarketing.com/v1
+  - url: servers:
+  - url: https://happy-path-crm-api.zebdawson.repl.com
 
 tags:
   - name: Follow-Up Pathway
